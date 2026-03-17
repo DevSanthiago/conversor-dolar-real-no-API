@@ -26,12 +26,12 @@ O projeto utiliza **JavaScript** para capturar o valor inserido pelo usuário e 
 
 Você pode acessar o Conversor Dólar-Real diretamente pelo link abaixo:
 
-🔗 [Acesse o Conversor Dólar-Real](https://johnreiiss.github.io/conversor-dolar-real-no-API/)
+🔗 [Acesse o Conversor Dólar-Real](https://devsanthiago.github.io/conversor-dolar-real-no-API/)
 
 Ou, caso prefira clonar o repositório e rodar localmente:
 
 ```bash
-git clone https://github.com/JohnReiiss/conversor-dolar-real-no-API.git
+git clone https://github.com/DevSanthiago/conversor-dolar-real-no-API.git
 ```
 
 ## ✉️ Contato
